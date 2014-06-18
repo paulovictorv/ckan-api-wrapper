@@ -1,0 +1,10 @@
+GET     /                           controllers.Assets.at(path="/public", file="index.html")
+
+GET     /datasets                                   controllers.Application.listResources()
+GET     /dataset/:dataset                           controllers.Application.resourceForDataset(dataset :String)
+#OPTIONS /dataset/:dataset                           controllers.Application.listResourceTypes(dataset :String)
+
+GET     /dataset/:dataset/plot                      controllers.PlotController.plotResource(dataset :String)
+PUT     /dataset/:dataset/plot                      controllers.PlotController.putPlot(dataset :String)
+
+GET     /assets/*file               controllers.Assets.at(path="/public", file)

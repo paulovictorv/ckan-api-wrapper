@@ -1,0 +1,13 @@
+<usuario>
+    <livros>
+        <livro>
+            <nome>Livro 1</nome>
+        </livro>
+        <livro>
+            <nome>Livro 2</nome>
+        </livro>
+    </livros>
+    <endereco>
+        <rua>Av. Alvaro Otacilio</rua>
+    </endereco>
+</usuario>

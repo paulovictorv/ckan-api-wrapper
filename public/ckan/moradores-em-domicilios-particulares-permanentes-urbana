@@ -1,0 +1,50 @@
+{"license_title": "Outra (Dom\u00ednio P\u00fablico)",
+    "maintainer": "Instituto Brasileiro de Geografia e Estat\u00edstica - IBGE",
+    "maintainer_email": "informacao@seplande.al.gov.br", "id": "06adef99-648e-4284-b6ad-b8d5f1715b67",
+    "metadata_created": "2012-08-30T12:40:51.531312",
+    "relationships": [],
+    "license": "Outra (Dom\u00ednio P\u00fablico)",
+    "metadata_modified": "2013-11-19T19:17:23.753183",
+    "author": "SEPLANDE",
+    "author_email": "informacao@seplande.al.gov.br",
+    "download_url": "http://geo.seplande.al.gov.br/geoweb/wizard/php/ckan.php?var=101010&exportar=xls&nivel=mun",
+    "state": "active",
+    "version": null,
+    "license_id": "other-pd",
+    "type": null,
+    "resources": [
+        {
+            "resource_group_id": "c2b7e831-fec8-4723-9377-cc6306ffd87c",
+            "cache_last_updated": null,
+            "package_id": "06adef99-648e-4284-b6ad-b8d5f1715b67",
+            "webstore_last_updated": null,
+            "id": "ac704d0a-6e33-4519-b99c-37d3d67765b4",
+            "size": "0",
+            "last_modified": null,
+            "hash": "",
+            "description": "Dados sobre n\u00famero de moradores em domic\u00edlios particulares permanentes  no formato XML",
+            "format": ".xml",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "mimetype_inner": null,
+            "mimetype": null,
+            "cache_url": null,
+            "name": "Moradores em domic\u00edlios particulares permanentes - Urbana no formato XML",
+            "created": "2013-11-19T16:17:23.821968",
+            "url": "http://localhost:9000/assets/datasets/Moradores_em_domicilios_particulares_permanentes__Urbana_20140617_1152.xml",
+            "webstore_url": null,
+            "position": 2,
+            "resource_type": "file"
+        }
+    ], "tags": ["IBGE", "habitacao", "moradores-em-domicilios-particulares-permanentes-urbana"], "tracking_summary": {
+    "total": 0,
+    "recent": 0
+}, "groups": ["habitacao"], "name": "moradores-em-domicilios-particulares-permanentes-urbana", "isopen": true, "notes_rendered": "<p>Dados sobre n\u00famero de moradores em domic\u00edlios particulares permanentes . Grupos: N\u00famero de moradores em domic\u00edlios, Habita\u00e7\u00e3o.\n</p>", "url": "http://informacao.seplande.al.gov.br", "notes": "Dados sobre n\u00famero de moradores em domic\u00edlios particulares permanentes . Grupos: N\u00famero de moradores em domic\u00edlios, Habita\u00e7\u00e3o.", "title": "Moradores em domic\u00edlios particulares permanentes - Urbana", "ratings_average": null, "extras": {
+    "\u00d3rg\u00e3o - Poder": "Executivo",
+    "Periodicidade": "Decenal",
+    "Modo de Coleta": "Manual",
+    "Granularidade geogr\u00e1fica": "Municipal",
+    "\u00d3rg\u00e3o - Esfera": "Federal"
+}, "ratings_count": 0, "revision_id": "bd56c29d-e212-4071-827d-8fc17c558dfd"}

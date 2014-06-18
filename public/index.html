@@ -1,0 +1,28 @@
+<html ng-app="WebServices">
+<head>
+ <title>Trabalho WS</title>
+</head>
+<body ng-controller="MainController">
+<p>Listando datasets: </p>
+<ul>
+    <li ng-repeat="dataset in data.datasets"
+            ng-click="showDataset(dataset)">
+        {{dataset}}
+    </li>
+</ul>
+
+<div ng-show="data.datasetName != undefined">
+<p>Recurso do Dataset {{data.datasetName}} convertido para JSON</p>
+<pre>
+    {{data.resource}}
+</pre>
+c
+<p>Link para o grafico gerado</p>
+<a href="{{data.plotLink}}" target="_blank">Ver grafico</a>
+</div>
+
+<script src="assets/js/angular.js"></script>
+<script src="assets/js/app.js"></script>
+
+</body>
+</html>

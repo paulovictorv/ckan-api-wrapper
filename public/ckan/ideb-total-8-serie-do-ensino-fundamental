@@ -1,0 +1,36 @@
+{"license_title": "Outra (Dom\u00ednio P\u00fablico)", "maintainer": "\"Instituto Nacional de Estudos e Pesquisas Educacionais\" - INEP", "maintainer_email": "informacao@seplande.al.gov.br", "id": "05a7a012-2762-41d8-83cd-f51b9b3a3e4a", "metadata_created": "2012-08-30T12:16:13.787879", "relationships": [], "license": "Outra (Dom\u00ednio P\u00fablico)", "metadata_modified": "2012-08-30T12:16:13.787879", "author": "SEPLANDE", "author_email": "informacao@seplande.al.gov.br", "download_url": "http://geo.seplande.al.gov.br/geoweb2/wizard/php/ckan.php?var=101392&exportar=xls&nivel=est", "state": "active", "version": null, "license_id": "other-pd", "type": null, "resources": [
+    {
+        "resource_group_id": "b3703bba-cb40-41e4-ac66-ffbf443975de",
+        "cache_last_updated": null,
+        "package_id": "05a7a012-2762-41d8-83cd-f51b9b3a3e4a",
+        "webstore_last_updated": null,
+        "id": "815dc1f5-a2d8-4869-88ef-410fedd2cc60",
+        "size": "0",
+        "last_modified": null,
+        "hash": "",
+        "description": "Dados sobre o IDEB Total - 8\u00aa s\u00e9rie do ensino fundamental - dados totais de Alagoas no formato CSV",
+        "format": ".csv",
+        "tracking_summary": {
+            "total": 0,
+            "recent": 0
+        },
+        "mimetype_inner": null,
+        "mimetype": null,
+        "cache_url": null,
+        "name": "IDEB Total - 8\u00aa s\u00e9rie do ensino fundamental - dados totais de Alagoas no formato CSV",
+        "created": "2012-08-30T09:16:13.833904",
+        "url": "http://localhost:9000/assets/datasets/alagoas_IDEB_Total__8_serie_do_ensino_fundamental_20140617_1151.csv",
+        "webstore_url": null,
+        "position": 1,
+        "resource_type": "file"
+    }
+], "tags": ["INEP", "educacionais", "ideb-total-8-serie-ensino-fundamental", "indicadores"], "tracking_summary": {
+    "total": 0,
+    "recent": 0
+}, "groups": ["indicadores"], "name": "ideb-total-8-serie-do-ensino-fundamental", "isopen": true, "notes_rendered": "<p>Dados sobre o IDEB Total - 8\u00aa s\u00e9rie do ensino fundamental. Grupos: Educacionais, Indicadores .\n</p>", "url": "http://portalideb.inep.gov.br/", "notes": "Dados sobre o IDEB Total - 8\u00aa s\u00e9rie do ensino fundamental. Grupos: Educacionais, Indicadores .", "title": "IDEB Total - 8\u00aa s\u00e9rie do ensino fundamental", "ratings_average": null, "extras": {
+    "\u00d3rg\u00e3o - Poder": "Executivo",
+    "Periodicidade": "Anual",
+    "Modo de Coleta": "Manual",
+    "Granularidade geogr\u00e1fica": " - Estadual",
+    "\u00d3rg\u00e3o - Esfera": "Federal"
+}, "ratings_count": 0, "revision_id": "daf48e14-7c17-4ea1-9941-cfa53a49106d"}

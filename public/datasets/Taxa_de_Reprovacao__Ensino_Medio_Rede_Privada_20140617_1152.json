@@ -1,0 +1,1532 @@
+[
+    {
+        "Municipio": "�gua Branca",
+        "ID": 270010,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Anadia",
+        "ID": 270020,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.4],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Arapiraca",
+        "ID": 270030,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 10.9],
+                    [2011, 3.9],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Atalaia",
+        "ID": 270040,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 6.1],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Barra de Santo Ant�nio",
+        "ID": 270050,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 2.1],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Barra de S�o Miguel",
+        "ID": 270060,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 6.6],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Batalha",
+        "ID": 270070,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.9],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Bel�m",
+        "ID": 270080,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Belo Monte",
+        "ID": 270090,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Boca da Mata",
+        "ID": 270100,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 13.3],
+                    [2011, 1.9],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Branquinha",
+        "ID": 270110,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Cacimbinhas",
+        "ID": 270120,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 2.8],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Cajueiro",
+        "ID": 270130,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Campestre",
+        "ID": 270135,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Campo Alegre",
+        "ID": 270140,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.9],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Campo Grande",
+        "ID": 270150,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Canapi",
+        "ID": 270160,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Capela",
+        "ID": 270170,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Carneiros",
+        "ID": 270180,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Ch� Preta",
+        "ID": 270190,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Coit� do N�ia",
+        "ID": 270200,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Col�nia Leopoldina",
+        "ID": 270210,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Coqueiro Seco",
+        "ID": 270220,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Coruripe",
+        "ID": 270230,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 5.3],
+                    [2011, 4.7],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Cra�bas",
+        "ID": 270235,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 3.6],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Delmiro Gouveia",
+        "ID": 270240,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 9.1],
+                    [2011, 3.1],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Dois Riachos",
+        "ID": 270250,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Estrela de Alagoas",
+        "ID": 270255,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Feira Grande",
+        "ID": 270260,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Feliz Deserto",
+        "ID": 270270,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Flexeiras",
+        "ID": 270280,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Girau do Ponciano",
+        "ID": 270290,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 21.0],
+                    [2011, 7.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Ibateguara",
+        "ID": 270300,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 5.0],
+                    [2011, 3.3],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Igaci",
+        "ID": 270310,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Igreja Nova",
+        "ID": 270320,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.1],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Inhapi",
+        "ID": 270330,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Jacar� dos Homens",
+        "ID": 270340,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Jacu�pe",
+        "ID": 270350,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Japaratinga",
+        "ID": 270360,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.1],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Jaramataia",
+        "ID": 270370,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Jequi� da Praia",
+        "ID": 270375,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Joaquim Gomes",
+        "ID": 270380,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Jundi�",
+        "ID": 270390,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Junqueiro",
+        "ID": 270400,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 3.2],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Lagoa da Canoa",
+        "ID": 270410,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 3.8],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Limoeiro de Anadia",
+        "ID": 270420,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Macei�",
+        "ID": 270430,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 6.9],
+                    [2011, 3.2],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Major Isidoro",
+        "ID": 270440,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 3.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Mar Vermelho",
+        "ID": 270490,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Maragogi",
+        "ID": 270450,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 5.9],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Maravilha",
+        "ID": 270460,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Marechal Deodoro",
+        "ID": 270470,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Maribondo",
+        "ID": 270480,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 4.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Mata Grande",
+        "ID": 270500,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Matriz de Camaragibe",
+        "ID": 270510,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Messias",
+        "ID": 270520,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 3.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Minador do Negr�o",
+        "ID": 270530,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Monteir�polis",
+        "ID": 270540,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Murici",
+        "ID": 270550,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Novo Lino",
+        "ID": 270560,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Olho d'�gua Grande",
+        "ID": 270590,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Olho d'�gua das Flores",
+        "ID": 270570,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 17.5],
+                    [2011, 6.7],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Olho d'�gua do Casado",
+        "ID": 270580,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Oliven�a",
+        "ID": 270600,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Ouro Branco",
+        "ID": 270610,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Palestina",
+        "ID": 270620,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Palmeira dos �ndios",
+        "ID": 270630,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 6.4],
+                    [2011, 2.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "P�o de A��car",
+        "ID": 270640,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 5.1],
+                    [2011, 2.7],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Pariconha",
+        "ID": 270642,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Paripueira",
+        "ID": 270644,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Passo de Camaragibe",
+        "ID": 270650,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Paulo Jacinto",
+        "ID": 270660,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Penedo",
+        "ID": 270670,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 8.3],
+                    [2011, 2.6],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Pia�abu�u",
+        "ID": 270680,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.9],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Pilar",
+        "ID": 270690,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 4.3],
+                    [2011, 3.4],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Pindoba",
+        "ID": 270700,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Piranhas",
+        "ID": 270710,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.9],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Po�o das Trincheiras",
+        "ID": 270720,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Porto Calvo",
+        "ID": 270730,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Porto Real do Col�gio",
+        "ID": 270750,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Porto de Pedras",
+        "ID": 270740,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Quebrangulo",
+        "ID": 270760,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Rio Largo",
+        "ID": 270770,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 16.9],
+                    [2011, 4.7],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Roteiro",
+        "ID": 270780,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Santa Luzia do Norte",
+        "ID": 270790,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Santana do Ipanema",
+        "ID": 270800,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 8.3],
+                    [2011, 3.4],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Santana do Munda�",
+        "ID": 270810,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "S�o Br�s",
+        "ID": 270820,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "S�o Jos� da Laje",
+        "ID": 270830,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 7.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "S�o Jos� da Tapera",
+        "ID": 270840,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 5.6],
+                    [2011, 5.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "S�o Lu�s do Quitunde",
+        "ID": 270850,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 3.5],
+                    [2011, 7.6],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "S�o Miguel dos Campos",
+        "ID": 270860,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 7.5],
+                    [2011, 4.8],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "S�o Miguel dos Milagres",
+        "ID": 270870,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "S�o Sebasti�o",
+        "ID": 270880,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 2.3],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Satuba",
+        "ID": 270890,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 6.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Senador Rui Palmeira",
+        "ID": 270895,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Tanque d'Arca",
+        "ID": 270900,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Taquarana",
+        "ID": 270910,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Teot�nio Vilela",
+        "ID": 270915,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 1.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Traipu",
+        "ID": 270920,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 0.0],
+                    [2011, 0.0],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Uni�o dos Palmares",
+        "ID": 270930,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 10.9],
+                    [2011, 4.5],
+                    [2012, ""]
+                ]
+            }
+        ]
+    },
+    {
+        "Municipio": "Vi�osa",
+        "ID": 270940,
+        "UF": "AL",
+        "Indicadores": [
+            {
+                "Indicador": "Taxareprovacaoensino_medioredeprivada",
+                "Dados": [
+                    [2010, 7.8],
+                    [2011, 3.7],
+                    [2012, ""]
+                ]
+            }
+        ]
+    }
+]
