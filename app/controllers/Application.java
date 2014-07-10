@@ -5,7 +5,6 @@ import br.wrapper.ckanclient.model.DatasetDescription;
 import org.jdeferred.DoneCallback;
 import org.jdeferred.DonePipe;
 import org.jdeferred.Promise;
-import play.Logger;
 import play.libs.F;
 import play.mvc.Controller;
 import play.mvc.Result;
@@ -26,7 +25,6 @@ public class Application extends Controller {
    public static F.Promise<Result> resourceForDataset(final String dataset){
        final String accepts = ctx().request().getHeader("Accept");
        final ValueHolder<InputStream> streamHolder = new ValueHolder<>();
-        Logger.info(accepts);
        F.Promise<Result> promise = F.Promise.promise(new F.Function0<Result>() {
            @Override
            public Result apply() throws Throwable {

@@ -17,11 +17,15 @@ WebServices.controller("MainController", function($scope, $http){
             }
         )
 
+    $scope.carregando = true
     $scope.showDataset = function(dataset){
         $http.get("dataset/" + dataset)
             .then(function(response){
+                $scope.carregando = false
                 $scope.data.datasetName = dataset;
                 $scope.data.resource = response.data;
+            }, function(response){
+                $scope.carregando = false
             })
         $http.get("dataset/" + dataset + "/plot")
             .then(function(response){
